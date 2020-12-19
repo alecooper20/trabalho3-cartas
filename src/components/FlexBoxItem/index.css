@@ -1,0 +1,8 @@
+.flex-item{
+
+    height: auto;
+    border: 1px dashed;
+    padding: 5px;
+    line-height: 50px;
+    margin: 5px;
+}
